@@ -1,2 +1,0 @@
-# vidsharda
-Personal CV Portfolio
